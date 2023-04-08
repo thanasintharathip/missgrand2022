@@ -38,7 +38,7 @@ class _RewardState extends State<Reward> {
         id:5,
         name: "มารีม่า สุภัทรา เกลี้ยงพร้อม",
         reward: '-ขวัญใจผู้บริหาร AVILA ได้รับเงินรางวัล 10,000 บาท',
-        image: '4.jpg'),
+        image: '5.jpg'),
     rewardItem(
         id:6,
         name: "มาลี ทิพยาภรณ์ พรมราช",
